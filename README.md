@@ -2,7 +2,6 @@
 - 👀 I’m interested in web design but find myself writing some scripts at times, well this doesn't make me a software engineer, lol!
 - 🌱 I’m currently learning Gsap and jquery, need more fun on my websites.
 - 💞️ I’m looking to collaborate on design and any frontend animation projects
-- 📫 How to reach me 
 
 <!---
 Productguy1/Productguy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
