@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in web design/development, I find myself writing some scripts while delivering pixel perfect products, well this doesn't make me a software engineer, lol!
-- 🌱 I’m currently learning Gsap and swift, need the bring fun to the web again.
+- 🌱 I’m currently learning Gsap and swift, need the bring fun products again.
 - 💞️ I’m looking to collaborate on design and any frontend animation projects
 
 <!---
